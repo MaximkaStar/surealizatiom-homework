@@ -1,0 +1,14 @@
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.exe.config
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.exe
+c:\users\максим\source\repos\surealizatiom\surealizatiom\bin\Debug\surealizatiom.pdb
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.csprojResolveAssemblyReference.cache
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.csproj.CoreCompileInputs.cache
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.exe
+c:\users\максим\source\repos\surealizatiom\surealizatiom\obj\Debug\surealizatiom.pdb
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\bin\Debug\surealizatiom.exe.config
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\bin\Debug\surealizatiom.exe
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\bin\Debug\surealizatiom.pdb
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\obj\Debug\surealizatiom.csprojAssemblyReference.cache
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\obj\Debug\surealizatiom.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\obj\Debug\surealizatiom.exe
+C:\Users\Максим\Desktop\Новая папка\Новая папка\surealization\surealizatiom\obj\Debug\surealizatiom.pdb
